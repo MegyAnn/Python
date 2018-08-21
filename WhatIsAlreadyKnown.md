@@ -1,6 +1,6 @@
-#Some old notes
+Some old notes
 
-##Dlczego python?
+Dlczego python?
 - wszechstronność
   - analiza danych
   - sztuczna inteligencja
