@@ -1,7 +1,8 @@
-Some old notes
+# Some old notes
 
-Dlczego python?
-- wszechstronność
+## Dlczego python?
+
+ - wszechstronność
   - analiza danych
   - sztuczna inteligencja
 - łatwośc dostępu do modułów 
